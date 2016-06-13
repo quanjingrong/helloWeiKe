@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BEE6E436CEEFA5EA3C2D7F6829AB49790E4E0C22",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BA0291C5112F5569E4778DF7FFB98D50549D8B62" : 0,
+    "BEE6E436CEEFA5EA3C2D7F6829AB49790E4E0C22" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "368A7E99-9900-4ACF-B647-3EA676D2110B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BA0291C5112F5569E4778DF7FFB98D50549D8B62" : "my%20ios\/%E9%BB%91%E9%A9%AC\/%E5%BE%AE%E4%BF%A1\/%E5%BE%AE%E4%BF%A1\/",
+    "BEE6E436CEEFA5EA3C2D7F6829AB49790E4E0C22" : "my%20ios\/%E9%BB%91%E9%A9%AC\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "微信",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "1023\/微信.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/quanjingrong\/weike.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BA0291C5112F5569E4778DF7FFB98D50549D8B62"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/quanjingrong\/helloWeiKe.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BEE6E436CEEFA5EA3C2D7F6829AB49790E4E0C22"
+    }
+  ]
+}
